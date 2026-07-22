@@ -1,0 +1,33 @@
+# Dataset
+data/
+*.zip
+
+# Trained models and checkpoints
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment variables and credentials
+.env
+kaggle.json
